@@ -4,8 +4,7 @@ import 'package:flutter/foundation.dart';
 import 'package:http/http.dart' as http;
 
 class DomainService {
-  static const String ossDomain =
-      '';
+  static const String ossDomain = '';
 
 // 从返回的 JSON 中挑选一个可以正常访问的域名
   static Future<String> fetchValidDomain() async {
