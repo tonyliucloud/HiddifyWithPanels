@@ -32,7 +32,7 @@ Feel free to join the V2Hiddify TG group chat for discussions and support: [V2Hi
 First, clone the project repository locally:
 
 ```bash
-git clone https://github.com/sayyidwilhelmi/HiddifyWithPanels.git
+git clone https://github.com/V2hiddify/HiddifyWithPanels
 cd HiddifyWithPanels
 ```
 
@@ -117,6 +117,4 @@ Supporting individual developers is not easy; if this project has been helpful t
 ```
 TFPvpxb5k2mYYcvABe5BrCz7Tt6BhnZxxj
 ```
-
-<img src="images/usdt_trc20.png" alt="USDT TRC20 Donation QR Code" width="500"/>
 
